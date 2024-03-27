@@ -34,7 +34,6 @@
     
 ## 🖥️ 주요 기술 스택
 
-
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
@@ -70,10 +69,10 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/nGrinder-0?style=for-the-badge&logoColor=white&color=grey">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+</div><br>
 
-
-</div>
-
+![주요기술스택](https://github.com/HyunJunSon/F1-WashPedia/assets/91066575/2a0ee6d3-3bf9-4cf9-bbc1-040129c963fb)<br>
+![주요기술스택2](https://github.com/HyunJunSon/F1-WashPedia/assets/91066575/bb3ba2ba-e854-4b70-877b-97b2edd0316c)
 
 
 <br><br>
@@ -81,26 +80,14 @@
 
 ## | 아키텍처
 ### 멀티모듈 구조
-  ![멀티모듈구조](https://github.com/Kernel360/F1-WashPedia-BE/assets/73059667/5e008117-fd3b-40b4-ac2e-2cfb52b42ae9)
+![멀티모듈구조](https://github.com/HyunJunSon/F1-WashPedia/assets/91066575/d2cac055-6534-451c-a11e-8fdea146a201)
 
   <br>
   
-### 개발서버 인프라 구조
-  ![개발서버인프라구조](https://github.com/Kernel360/F1-WashPedia-BE/assets/73059667/4ef76ccc-6140-4ecb-8704-a4a51f591435)
+### CI/CD 구조
+![Dev CI/CD](https://github.com/HyunJunSon/F1-WashPedia/assets/91066575/ceeb1336-9fbd-448b-9716-afb0a074bce9)
+![Prod CI/CD](https://github.com/HyunJunSon/F1-WashPedia/assets/91066575/4de3bc71-d299-4acc-84a6-36b5fa7af68f)
 
-
-## | 그 외 정보들
-    배포 :: 
-    - 운영 배포는 AWS 클라우드를 사용할 예정, 개발 배포를 vultr 사용중
-
-    추후 구현해야 하는 기능 :: 
-    - 회원탈퇴(탈퇴회원 관리 정책 필요)
-    - 아이디/비밀번호 찾기
-    - 즐겨찾기
-    - 세차장 위치 정보 검색
-    - Admin 페이지
-    - 금지어 필터링
-    - (제품 추천 시스템)
 
 
 ## 👩‍👦‍👦👨‍👨‍👧‍👧 팀원소개
